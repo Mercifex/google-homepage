@@ -1,0 +1,1 @@
+Replicated the Google homepage per my assignment on The Odin Project. Thanks for stopping by.
